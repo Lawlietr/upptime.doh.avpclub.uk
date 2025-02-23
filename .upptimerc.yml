@@ -5,6 +5,8 @@ repo: upptime.doh.avpclub.uk # The name of this repository
 sites:
   - name: Srv01-US
     url: $AGH01_URL
+  - name: Srv02-Jp
+    url: $AGH02_URL
   - name: Google DNS1
     check: "tcp-ping"
     url: 8.8.8.8
