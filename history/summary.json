@@ -5,37 +5,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv01-us",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "82.00%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 378,
+    "timeDay": 260,
     "timeWeek": 361,
     "timeMonth": 356,
     "timeYear": 358,
-    "dailyMinutesDown": {
-      "2025-02-23": 259
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Srv02-Jp",
     "url": "$AGH02_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv02-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 664,
+    "timeDay": 650,
     "timeWeek": 664,
     "timeMonth": 664,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-24": 0
+    }
   },
   {
     "name": "Google DNS1",
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3,
-    "timeDay": 2,
+    "timeDay": 1,
     "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 3,
