@@ -22,7 +22,7 @@
     "url": "$AGH02_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv02-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 705,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "Google DNS1",
