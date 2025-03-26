@@ -30,19 +30,19 @@
     "url": "$AGH02_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv02-jp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 598,
-    "timeDay": 407,
-    "timeWeek": 482,
+    "timeDay": 471,
+    "timeWeek": 495,
     "timeMonth": 584,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 8
     }
   },
   {
