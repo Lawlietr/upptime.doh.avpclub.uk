@@ -4,19 +4,19 @@
     "url": "$AGH01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-01-us",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 633,
-    "timeDay": 633,
-    "timeWeek": 633,
-    "timeMonth": 633,
-    "timeYear": 633,
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-06-28": 0
+      "2025-06-28": 15
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$VW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
-    "status": "down",
-    "uptime": "92.79%",
-    "uptimeDay": "92.79%",
-    "uptimeWeek": "92.79%",
-    "uptimeMonth": "92.79%",
-    "uptimeYear": "92.79%",
-    "time": 589,
-    "timeDay": 589,
-    "timeWeek": 589,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "status": "up",
+    "uptime": "90.98%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "90.98%",
+    "uptimeMonth": "90.98%",
+    "uptimeYear": "90.98%",
+    "time": 587,
+    "timeDay": 587,
+    "timeWeek": 587,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-06-28": 53
+      "2025-06-28": 68
     }
   },
   {
