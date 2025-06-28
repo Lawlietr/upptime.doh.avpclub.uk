@@ -3,10 +3,14 @@ owner: Lawlietr # Your GitHub organization or username, where this repository li
 repo: upptime.doh.avpclub.uk # The name of this repository
 
 sites:
-  - name: Srv01-US
+  - name: AGH-01-US
     url: $AGH01_URL
-  - name: Srv02-Jp
+  - name: AGH-02-JP
     url: $AGH02_URL
+  - name: AGH-03-TW
+    url: $AGH03_URL
+  - name: VW-01
+    url: $VW_URL
   - name: Google DNS1
     check: "tcp-ping"
     url: 8.8.8.8
