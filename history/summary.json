@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-01-us",
     "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "98.04%",
-    "time": 647,
-    "timeDay": 647,
-    "timeWeek": 647,
-    "timeMonth": 647,
-    "timeYear": 647,
-    "dailyMinutesDown": {
-      "2025-06-28": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AGH-02-JP",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 528,
+    "timeDay": 528,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 945,
-    "timeWeek": 945,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
     "status": "up",
-    "uptime": "90.98%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "90.98%",
-    "uptimeYear": "90.98%",
-    "time": 587,
-    "timeDay": 587,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "uptime": "95.97%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
+    "time": 550,
+    "timeDay": 550,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-06-28": 68
+      "2025-06-28": 53
     }
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 4,
+    "timeDay": 2,
     "timeWeek": 5,
-    "timeMonth": 5,
+    "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
   },
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 4,
+    "timeDay": 2,
     "timeWeek": 5,
-    "timeMonth": 5,
+    "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
   }
