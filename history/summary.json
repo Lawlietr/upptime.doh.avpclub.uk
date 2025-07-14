@@ -73,11 +73,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "96.69%",
     "uptimeWeek": "96.93%",
-    "uptimeMonth": "95.55%",
-    "uptimeYear": "95.55%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 567,
     "timeDay": 499,
     "timeWeek": 563,
@@ -123,19 +123,19 @@
     "url": "1.1.1.1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloudflare-dns-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 4,
     "timeDay": 6,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 21
     }
   }
 ]
