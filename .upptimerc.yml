@@ -11,6 +11,8 @@ sites:
     url: $AGH03_URL
   - name: VW-01
     url: $VW_URL
+  - name: Mail-01
+    url: $MAIL01_URL
   - name: Google DNS1
     check: "tcp-ping"
     url: 8.8.8.8
