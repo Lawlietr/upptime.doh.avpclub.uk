@@ -1,7 +1,7 @@
 url: $VW_URL
-status: down
-code: 403
-responseTime: 673
-lastUpdated: 2025-07-31T09:23:34.369Z
+status: up
+code: 200
+responseTime: 601
+lastUpdated: 2025-07-31T09:44:57.813Z
 startTime: 2025-06-28T02:56:22.676Z
 generator: Upptime <https://github.com/upptime/upptime>
