@@ -1,7 +1,7 @@
 url: $AGH01_URL
-status: down
-code: 403
-responseTime: 593
-lastUpdated: 2025-08-31T11:55:13.125Z
+status: up
+code: 200
+responseTime: 770
+lastUpdated: 2025-08-31T12:22:18.254Z
 startTime: 2025-06-28T02:56:19.535Z
 generator: Upptime <https://github.com/upptime/upptime>
