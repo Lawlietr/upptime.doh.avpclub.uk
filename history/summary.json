@@ -151,18 +151,19 @@
     "url": "$VW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "98.68%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "98.79%",
     "time": 662,
-    "timeDay": 778,
-    "timeWeek": 753,
+    "timeDay": 761,
+    "timeWeek": 751,
     "timeMonth": 697,
     "timeYear": 662,
     "dailyMinutesDown": {
+      "2025-12-03": 20,
       "2025-12-02": 44,
       "2025-11-30": 37,
       "2025-11-22": 31,
@@ -233,8 +234,7 @@
       "2025-07-23": 16,
       "2025-07-21": 96,
       "2025-07-20": 69,
-      "2025-07-16": 128,
-      "2025-07-15": 28
+      "2025-07-16": 128
     }
   },
   {
