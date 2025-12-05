@@ -13,7 +13,7 @@
     "time": 738,
     "timeDay": 823,
     "timeWeek": 848,
-    "timeMonth": 800,
+    "timeMonth": 802,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-12-05": 76,
@@ -151,17 +151,17 @@
     "url": "$VW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "94.76%",
-    "uptimeWeek": "98.26%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "98.51%",
-    "uptimeYear": "98.86%",
-    "time": 663,
-    "timeDay": 719,
-    "timeWeek": 746,
-    "timeMonth": 703,
-    "timeYear": 663,
+    "uptimeYear": "98.88%",
+    "time": 664,
+    "timeDay": 747,
+    "timeWeek": 754,
+    "timeMonth": 706,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2025-12-05": 76,
       "2025-12-03": 20,
@@ -233,8 +233,7 @@
       "2025-07-25": 58,
       "2025-07-24": 26,
       "2025-07-23": 16,
-      "2025-07-21": 96,
-      "2025-07-20": 7
+      "2025-07-21": 43
     }
   },
   {
@@ -242,16 +241,16 @@
     "url": "$MAIL01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-01",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "94.76%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "94.74%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.73%",
     "time": 682,
-    "timeDay": 624,
-    "timeWeek": 629,
-    "timeMonth": 699,
+    "timeDay": 618,
+    "timeWeek": 627,
+    "timeMonth": 698,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2025-12-05": 76,
@@ -325,8 +324,7 @@
       "2025-07-24": 64,
       "2025-07-23": 16,
       "2025-07-22": 22,
-      "2025-07-21": 96,
-      "2025-07-20": 7
+      "2025-07-21": 43
     }
   },
   {
