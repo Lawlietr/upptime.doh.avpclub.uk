@@ -4,15 +4,15 @@
     "url": "$AGH01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-01-us",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "93.11%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "93.09%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.95%",
     "time": 745,
-    "timeDay": 955,
-    "timeWeek": 870,
+    "timeDay": 916,
+    "timeWeek": 863,
     "timeMonth": 831,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -90,8 +90,7 @@
       "2025-07-26": 59,
       "2025-07-25": 58,
       "2025-07-24": 26,
-      "2025-07-23": 16,
-      "2025-07-21": 19
+      "2025-07-23": 16
     }
   },
   {
@@ -129,11 +128,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-03-tw",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 1047,
     "timeDay": 643,
     "timeWeek": 669,
@@ -153,16 +152,16 @@
     "url": "$VW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "93.11%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "93.09%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 668,
-    "timeDay": 831,
-    "timeWeek": 749,
-    "timeMonth": 730,
+    "timeDay": 819,
+    "timeWeek": 751,
+    "timeMonth": 731,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2025-12-22": 99,
@@ -237,7 +236,7 @@
       "2025-07-29": 25,
       "2025-07-28": 27,
       "2025-07-27": 44,
-      "2025-07-26": 59
+      "2025-07-26": 43
     }
   },
   {
@@ -245,16 +244,16 @@
     "url": "$MAIL01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-01",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "93.11%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "93.09%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.82%",
     "time": 676,
-    "timeDay": 574,
-    "timeWeek": 607,
-    "timeMonth": 628,
+    "timeDay": 548,
+    "timeWeek": 601,
+    "timeMonth": 627,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2025-12-22": 99,
@@ -330,7 +329,7 @@
       "2025-07-28": 27,
       "2025-07-27": 44,
       "2025-07-26": 59,
-      "2025-07-25": 58
+      "2025-07-25": 30
     }
   },
   {
