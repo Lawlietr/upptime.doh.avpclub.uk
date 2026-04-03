@@ -4,16 +4,16 @@
     "url": "$AGH01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-01-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "88.93%",
+    "uptimeDay": "88.92%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.21%",
     "time": 768,
-    "timeDay": 879,
-    "timeWeek": 865,
-    "timeMonth": 854,
+    "timeDay": 857,
+    "timeWeek": 854,
+    "timeMonth": 851,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2026-04-03": 117,
@@ -93,8 +93,7 @@
       "2025-09-05": 26,
       "2025-09-03": 83,
       "2025-09-02": 4,
-      "2025-08-31": 42,
-      "2025-08-30": 23
+      "2025-08-31": 42
     }
   },
   {
@@ -158,16 +157,16 @@
     "url": "$VW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "88.93%",
+    "uptimeDay": "88.92%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.21%",
     "time": 740,
-    "timeDay": 861,
-    "timeWeek": 853,
-    "timeMonth": 873,
+    "timeDay": 843,
+    "timeWeek": 844,
+    "timeMonth": 870,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2026-04-03": 117,
@@ -245,7 +244,7 @@
       "2025-09-17": 23,
       "2025-09-16": 19,
       "2025-09-11": 27,
-      "2025-09-08": 96
+      "2025-09-08": 73
     }
   },
   {
@@ -253,16 +252,16 @@
     "url": "$MAIL01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-01",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "88.93%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "88.91%",
     "uptimeWeek": "98.42%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 661,
-    "timeDay": 673,
-    "timeWeek": 657,
-    "timeMonth": 632,
+    "timeDay": 680,
+    "timeWeek": 662,
+    "timeMonth": 634,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-04-03": 117,
@@ -342,7 +341,7 @@
       "2025-09-08": 96,
       "2025-09-05": 26,
       "2025-09-03": 83,
-      "2025-09-02": 23
+      "2025-09-02": 4
     }
   },
   {
