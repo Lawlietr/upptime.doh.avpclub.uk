@@ -4,18 +4,19 @@
     "url": "$AGH01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-01-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.22%",
     "time": 773,
-    "timeDay": 711,
-    "timeWeek": 856,
-    "timeMonth": 867,
+    "timeDay": 825,
+    "timeWeek": 863,
+    "timeMonth": 868,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2026-04-29": 0,
       "2026-04-23": 110,
       "2026-04-22": 46,
       "2026-04-17": 45,
@@ -96,8 +97,7 @@
       "2025-09-18": 16,
       "2025-09-17": 23,
       "2025-09-16": 19,
-      "2025-09-11": 27,
-      "2025-09-08": 19
+      "2025-09-11": 27
     }
   },
   {
@@ -162,18 +162,19 @@
     "url": "$VW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vw-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.21%",
     "time": 746,
-    "timeDay": 583,
-    "timeWeek": 809,
-    "timeMonth": 869,
+    "timeDay": 756,
+    "timeWeek": 819,
+    "timeMonth": 870,
     "timeYear": 746,
     "dailyMinutesDown": {
+      "2026-04-29": 0,
       "2026-04-23": 110,
       "2026-04-22": 46,
       "2026-04-17": 45,
@@ -250,8 +251,7 @@
       "2025-10-01": 20,
       "2025-09-27": 29,
       "2025-09-25": 67,
-      "2025-09-24": 37,
-      "2025-09-23": 18
+      "2025-09-24": 37
     }
   },
   {
@@ -259,18 +259,19 @@
     "url": "$MAIL01_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-01",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "98.50%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 660,
-    "timeDay": 486,
-    "timeWeek": 620,
+    "timeDay": 574,
+    "timeWeek": 623,
     "timeMonth": 646,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2026-04-29": 0,
       "2026-04-23": 110,
       "2026-04-22": 46,
       "2026-04-17": 45,
@@ -350,8 +351,7 @@
       "2025-09-23": 18,
       "2025-09-21": 22,
       "2025-09-18": 16,
-      "2025-09-17": 23,
-      "2025-09-16": 19
+      "2025-09-17": 23
     }
   },
   {
