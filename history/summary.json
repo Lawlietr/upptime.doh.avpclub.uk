@@ -135,17 +135,17 @@
     "url": "$AGH03_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-03-tw",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 884,
-    "timeDay": 2126,
-    "timeWeek": 1164,
-    "timeMonth": 842,
-    "timeYear": 885,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.74%",
+    "time": 885,
+    "timeDay": 1827,
+    "timeWeek": 1171,
+    "timeMonth": 854,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2025-07-24": 223,
       "2025-07-23": 369,
@@ -156,7 +156,7 @@
       "2026-01-04": 287,
       "2026-03-16": 63,
       "2026-04-30": 76,
-      "2026-07-08": 0
+      "2026-07-08": 79
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeDay": 856,
     "timeWeek": 960,
     "timeMonth": 893,
-    "timeYear": 769,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2025-09-24": 21,
       "2025-09-25": 67,
