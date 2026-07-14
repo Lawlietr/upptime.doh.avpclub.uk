@@ -105,16 +105,16 @@
     "url": "$AGH02_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agh-02-jp",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 661,
-    "timeDay": 384,
-    "timeWeek": 487,
-    "timeMonth": 833,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.88%",
+    "time": 660,
+    "timeDay": 401,
+    "timeWeek": 481,
+    "timeMonth": 821,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2025-08-01": 32,
@@ -128,7 +128,7 @@
       "2025-10-02": 58,
       "2025-11-18": 138,
       "2026-04-09": 73,
-      "2026-07-14": 0
+      "2026-07-14": 129
     }
   },
   {
